@@ -103,3 +103,6 @@ EnhancedVisualizer.plot_training_metrics(final_trainer)
 # 查看权重分布
 EnhancedVisualizer.visualize_parameters(final_model)
 ```
+## 7. 模型链接：
+链接:https://pan.baidu.com/s/1pdHF4s4KEjuE3DtUTUBBBA  
+提取码:5165
